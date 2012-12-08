@@ -1,0 +1,15 @@
+{
+  "name": "longest-common-subsequence",
+  "version": "0.0.1",
+  "description": "an implementation of the longest common subsequence problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "Mirko Kiefer <mail@mirkokiefer.com>",
+  "license": "BSD"
+}
