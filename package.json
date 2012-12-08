@@ -1,7 +1,7 @@
 {
-  "name": "longest-common-subsequence",
+  "name": "longest-common-substring",
   "version": "0.0.1",
-  "description": "an implementation of the longest common subsequence problem",
+  "description": "an implementation of the longest common substring problem",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
